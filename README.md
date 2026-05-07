@@ -141,7 +141,7 @@ ORDER BY year, month, day_of_week;
 
 ## Files
 - [Case_Study_Cyclistic_data_analysis.xlsx](link) — Monthly pivot tables, ride length summaries, and day-of-week breakdowns
-- [cyclistic_queries.sql](link) — All SQL queries used in the analysis
+- [cyclistic_queries.sql](https://github.com/bhilliv719/cyclistic-bikeshare-analysis/blob/main/queries.sql) — All SQL queries used in the analysis
 - [Cyclistic_Presentation.pptx](link) — Full slide deck with charts, findings, and recommendations
 
 ---
